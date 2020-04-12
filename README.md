@@ -1,6 +1,6 @@
-# calc2
-Simple 2 number web calculator for git demos
+# calc
+Simple 2 number web calculator for git demos and hanving fun
 
-If you have forked this repository as part of the labs in the Professional Git book, please consider writing a review of the book on Amazon!
+JUST have fun witth git/devsecops
 
 Thanks!!
